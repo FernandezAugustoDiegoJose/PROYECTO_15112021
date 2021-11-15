@@ -1,8 +1,8 @@
 # **REPOSITORIO DEL PRIMER PROYECTO DE MONGODB**
 
-#### Este es el archivo Readme.md del proyecto que se dedicará a la recopilación de información de coches de gama baja/media/alta
-#### adjuntando todo lo que se considera relevante en este mundillo, como la clase de motor que lleva de fábrica, el precio, el 
-#### tipo de combustible...
+#### Este es el archivo Readme.md del proyecto que se dedicará a la recopilación de información de
+#### coches de gama baja/media/alta adjuntando todo lo que se considera relevante en este mundillo, como
+#### la clase de motor que lleva de fábrica, el precio, el tipo de combustible...
 #### Indagando en este proyecto nos encontraremos:
 
 * **Utilización de archivos .js**
