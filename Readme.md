@@ -17,8 +17,7 @@
 * ... Entre otros.
 * **Dando aportaciones personales al proyecto**
 
-## Ha sido posible la realización de este proyecto gracias a la información
-## de las páginas web:
+## Ha sido posible la realización de este proyecto gracias a la información de las páginas web:
 #### > [KM77](https://www.km77.com/) - Información detallada de los modelos.
 #### > [Autofacil](https://www.autofacil.es/marcas/) - Página para la consulta de modelos.
 #### > [MongoDB](https://www.mongodb.com/es) - Información sobre las bases de datos y operadores.
