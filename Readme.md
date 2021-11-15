@@ -8,12 +8,13 @@
 
 * **Utilización de archivos .js**
 * **Capacidad para crear una base de datos**
-* **Utilización de operadores en el .find(), tales como:**
+* **Utilización de operadores .find(), .aggregate(), tales como:**
 * $eq
 * $gt
 * $in
 * $lt
 * $ne
+* $count
 * ... Entre otros.
 * **Dando aportaciones personales al proyecto**
 
